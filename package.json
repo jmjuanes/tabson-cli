@@ -1,0 +1,12 @@
+{
+  "name": "tabson-cli",
+  "version": "0.0.1",
+  "description": "CLI to convert a tab file to JSON",
+  "keywords": [ "tab", "tsv", "json", "tabulation" ],
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "main": "./cli.js",
+  "repository": { "type": "git", "url": "https://github.com/jmjuanes/tabson-cli.git" },
+  "dependencies": { "tabson": "0.0.1", "nutty": "0.1.9", "pstat": "1.0.2" },
+  "bin": { "tabson": "cli.js" },
+  "license": "MIT"
+}
