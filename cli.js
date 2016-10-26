@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 //Import dependencies
 var fs = require('fs');
 var nutty = require('nutty');
